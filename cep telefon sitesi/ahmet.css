@@ -1,0 +1,57 @@
+*{
+    background-color: rgb(3, 114, 49);
+}
+
+p{
+    font-size: 20px;
+    float: left;
+    margin: 10px 10px ;
+    font-weight: bold;
+    
+}
+
+.bax1{
+    color:rgb(153, 14, 60) ;
+    font-size:20px ;
+    float: left;
+    margin: 10px 10px 0 38%;
+    font-weight: bold;
+   
+}
+
+.bax{
+    padding-left: 35%;
+    color: rgb(180, 218, 14);
+    font-size: 25px;
+}
+h2{
+    color: rgb(27, 179, 199);
+    margin: 100px 0 0 45%;
+    
+
+}
+
+.clear{
+    clear: both;
+    
+}
+
+.bax2{
+    margin: 20px 0 0 42%;
+    color: rgb(174, 190, 23);
+}
+
+.catr{
+   margin: 20px 30px 100px 30%;
+   
+}
+
+li{
+    margin: 40px auto;
+}
+
+h3{
+    font-size: 25px;
+    color: brown;
+    padding: 20px;
+}
